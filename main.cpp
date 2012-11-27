@@ -53,16 +53,16 @@ void mainLoop()
 		char in = input.at(0);
 		switch(in) 
 		{
-			case 'c': clear();	   		 break;
-			case 'o': copy();	   		 break;
-			case 's': swap(); 	   		 break;
-			case 'd': display();   		 break;
-			case 'a': add();	   		 break;
-			case 'r': remove();	   		 break;
-			case 'u': setUnion();  		 break;
+			case 'c': clear();	     break;
+			case 'o': copy();	     break;
+			case 's': swap(); 	     break;
+			case 'd': display();   	     break;
+			case 'a': add();	     break;
+			case 'r': remove();	     break;
+			case 'u': setUnion();  	     break;
 			case 'i': setIntersection(); break;
-			case 'q': 					 return;
-			default: printUsage(); 		 break;
+			case 'q': 		     return;
+			default: printUsage(); 	     break;
 		} 
 	}
 }
