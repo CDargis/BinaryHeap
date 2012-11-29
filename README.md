@@ -1,4 +1,4 @@
 BinaryHeap
 ==========
 
-© Chris Dargis 2012
+© 2012 Chris Dargis
