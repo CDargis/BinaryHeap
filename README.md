@@ -1,4 +1,4 @@
 BinaryHeap
 ==========
 
-Copyright 2012
+Copyright © 2012
